@@ -21,7 +21,6 @@ Welcome to my LeetCode solutions repository! This collection is a compilation of
 
 Each problem solution follows a similar structure for consistency and ease of understanding:
 
-```plaintext
 Problem: Two Sum (Example)
 Difficulty: Easy
 
@@ -46,3 +45,4 @@ public int[] twoSum(int[] nums, int target) {
     }
     return new int[] {}; // Edge case if no solution found
 }
+
