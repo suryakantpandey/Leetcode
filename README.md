@@ -1,6 +1,6 @@
 # LeetCode Solutions Repository
 
-Welcome to my LeetCode solutions repository! This collection is a compilation of solutions to various LeetCode problems, aiming for minimal and efficient code. Each solution is designed to be as concise as possible while maintaining clarity and optimal performance.
+Welcome to my LeetCode repository! This collection is a compilation of solutions to various LeetCode problems, aiming for minimal and efficient code. Each solution is designed to be as concise as possible while maintaining clarity and optimal performance.
 
 ## Repository Structure
 
